@@ -3,8 +3,6 @@
 
 ![screencapture-sortingvisualizer21-netlify-app-2022-08-16-21_27_43](https://user-images.githubusercontent.com/75901275/184925039-4462e441-b7bb-4c0d-ad28-9d2fb66dab73.png)
 
-![image](https://user-images.githubusercontent.com/75901275/184697520-3ccb8ac3-2eea-47d2-a53a-249454f4c974.png)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
